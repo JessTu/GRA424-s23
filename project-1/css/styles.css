@@ -8,23 +8,48 @@
 .square-1 {
     display: flex;
     background-color: black;
-    width: 71%;
-    height: 71%;
+    width: 71.428571vw;
+    height: 71.428571vh;
     margin: auto;
 }
 
 .square-2 {
     display: flex;
     background-color: rgb(255, 255, 255);
-    width: 42vw;
-    height: 42vh;
+    width: 42.857143vw;
+    height: 42.857143vh;
     margin: auto;
 }
 
 .square-3 {
     display: flex;
     background-color: rgb(0, 0, 0);
-    width: 14vw;
-    height: 14vh;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+
+.square-4 {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+    border: .25px solid black;
+}
+
+.square-5 {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.square-6 {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 14.285714vw;
+    height: 14.285714vh;
     margin: auto;
 }
