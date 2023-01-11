@@ -35,7 +35,7 @@
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
-    border: .25px solid black;
+    border: .25pt solid rgb(116, 116, 116);
 }
 
 .square-5 {
