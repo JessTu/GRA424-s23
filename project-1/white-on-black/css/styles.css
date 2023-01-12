@@ -6,7 +6,7 @@
 
 .square-1 {
     display: flex;
-    border: .25pt solid rgb(0, 0, 0);
+    border: 1pt solid rgb(0, 0, 0);
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
