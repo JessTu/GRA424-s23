@@ -106,36 +106,37 @@
     margin: auto;
     overflow: hidden;
     position: relative;
-    top: -57.135vh;
+    top: -57.125vh;
 }
 
 .line2 {
     display: flex;
-    background-color: rgb(255, 0, 0);
-    transform: rotate(-30deg);
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-15deg);
     width: 1.50965797vw;
-    height: 90vh;
+    height: 65vh;
     margin: auto;
     transform-origin: 0% 0%;
 }
 
 .line-left2 {
     display: flex;
-    background-color: rgb(255, 0, 0);
-    transform: rotate(-30deg);
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-15deg);
     width: 1.50965797vw;
-    height: 90vh;
+    height: 65vh;
     margin: auto;
     margin-left: 0;
     transform-origin: 0% 0%;
+    margin-left: -8vh;
 }
 
 .line-right2 {
     display: flex;
-    background-color: rgb(255, 0, 0);
-    transform: rotate(-30deg);
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-15deg);
     width: 1.50965797vw;
-    height: 90vh;
+    height: 65vh;
     margin: auto;
     margin-right: 0;
     transform-origin: 0% 0%;
