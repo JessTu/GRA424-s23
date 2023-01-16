@@ -35,7 +35,7 @@
     display: flex;
     width: 21.4285715vw;
     height: 42.857143vh;
-    background-color: #9e9b92;
+    background-color: #9dd08b;
     margin: auto;
 }
 
@@ -43,7 +43,7 @@
     display: flex;
     width: 21.4285715vw;
     height: 42.857143vh;
-    background-color: #ffd208;
+    background-color: #fcc299;
     margin: auto;
 }
   
@@ -53,12 +53,40 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    display: flex;
 }
   
-.small-square {
+.small-square1 {
     display: flex;
-    width: 28.571428vw;
+    width: 14.285714vw;
     height: 14.285714vh;
-    background-color: #d3bc6a;
+    background-color: #cbd3b0;
+}
+
+.small-square2 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #ead2bc;
+}
+
+.smaller-square-container {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.smaller-square1 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #9dd08b;
+}
+  
+.smaller-square2 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #fcc299;
 }

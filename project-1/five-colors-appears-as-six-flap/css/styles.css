@@ -53,12 +53,40 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    display: flex;
 }
   
-.small-square {
+.small-square1 {
     display: flex;
-    width: 28.571428vw;
+    width: 14.285714vw;
     height: 14.285714vh;
     background-color: #d3bc6a;
+}
+
+.small-square2 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #d3bc6a;
+}
+
+.smaller-square-container {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.smaller-square1 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #5b6e3d;
+}
+  
+.smaller-square2 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 42.857143vh;
+    background-color: #f6eb6e;
 }
