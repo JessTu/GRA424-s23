@@ -57,14 +57,7 @@
   
 .small-square1 {
     display: flex;
-    width: 14.285714vw;
-    height: 14.285714vh;
-    background-color: #d3bc6a;
-}
-
-.small-square2 {
-    display: flex;
-    width: 14.285714vw;
+    width: 28.571428vw;
     height: 14.285714vh;
     background-color: #d3bc6a;
 }
@@ -89,4 +82,8 @@
     width: 7.1428571667vw;
     height: 42.857143vh;
     background-color: #f6eb6e;
+}
+
+.smaller-square-container:hover {
+    display: none;
 }
