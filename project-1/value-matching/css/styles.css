@@ -70,7 +70,6 @@
 
 .smaller-square-1 {
     display: flex;
-    background-color: rgb(0, 0, 0);
     width: 7.1428571667vw;
     height: 7.1428571667vh;
     background-color: #faa41a;
@@ -85,7 +84,6 @@
 
 .smaller-square-2 {
     display: flex;
-    background-color: rgb(0, 0, 0);
     width: 7.1428571667vw;
     height: 7.1428571667vh;
     background-color: #fdba3d;
@@ -99,7 +97,6 @@
 
 .smaller-square-3 {
     display: flex;
-    background-color: rgb(0, 0, 0);
     width: 7.1428571667vw;
     height: 7.1428571667vh;
     background-color: #ffcb66;
@@ -113,7 +110,6 @@
 
 .smaller-square-4 {
     display: flex;
-    background-color: rgb(0, 0, 0);
     width: 7.1428571667vw;
     height: 7.1428571667vh;
     background-color: #ffd77f;
